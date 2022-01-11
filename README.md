@@ -1,7 +1,6 @@
 <h1 align="left">Hi there, I'm Rohit Saw 👋</h1>
 
-<h3 style="display:inline-block;"> Glad to see you here! </h3> 
-<p style="display:inline-block; margin-right:10px;" align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsaw&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsaw" /> </p>
+#### Glad to see you here!  ![visitor](https://komarev.com/ghpvc/?username=rohitsaw&label=Profile%20views&color=0e75b6&style=flat)
 
 
 <h5 align="left">I'm developer who is passionate about stuff like Frontend development, Mobile development. Few tech that I enjoy working in are React+Redux, Flutter, Javascript, Dart, Python! </h5>
