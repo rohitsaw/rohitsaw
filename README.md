@@ -12,12 +12,9 @@
 <a href="https://www.hackerearth.com/@rsaw409"> <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" /> </a>
 
 
-
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rsaw409" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/LinkedIn_social_network_logo-512.png" alt="shuvamlal" height="30" width="30" /></a>
-<a href="https://twitter.com/rsaw409" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-networks-15/512/Bird_tweet_tweeting_twitter_logo-512.png" alt="rsaw409" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/rsaw409" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rohitsaw"/></a>
+<a href="https://twitter.com/rsaw409" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="rsaw409"/></a>
 </p>
 
 <p align="left"> <a href="https://twitter.com/rsaw409" target="blank"><img src="https://img.shields.io/twitter/follow/rsaw409?logo=twitter&style=for-the-badge" alt="rsaw409" /></a> </p>
