@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rohit Saw</h1>
+<h3 align="center">A passionate software developer from India. I have experience working with React and Flutter.</h3>
 
 <!--
 **rohitsaw/rohitsaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
