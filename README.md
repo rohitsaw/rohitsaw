@@ -13,6 +13,9 @@
 <p align="left"> <a href="https://github.com/rohitsaw" target="blank"><img src="https://img.shields.io/github/followers/rohitsaw?style=social" alt="rohitsaw" /></a> </p>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitsaw&show_icons=true&locale=en" alt="rohitsaw" /></p>
+
+
 
 
 <!--
