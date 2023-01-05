@@ -2,7 +2,7 @@
 
 #### Glad to see you here!  ![visitor](https://komarev.com/ghpvc/?username=rohitsaw&label=Profile%20views&color=0e75b6&style=flat)
 
-##### I'm developer who is passionate about stuff like Frontend development, Mobile development. Few tech that I enjoy working in are React+Redux, Flutter, Javascript, Dart, Python! 
+##### I'm developer who is passionate about stuff like Frontend development, Backend development, Mobile development. Few language in which I enjoy working in are Nodejs, React+Redux, Flutter, Javascript, Dart, Python! 
 
 <a href="https://leetcode.com/rsaw409/"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a>
 <a href="https://www.codechef.com/users/rsaw409"> <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /> </a>
