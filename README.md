@@ -40,6 +40,7 @@
 
 #### Certification Highlights:
 <ul>
+    <li> <img align="center" style="pointer-events: none; cursor: default;" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="rsaw409" /> <a href="https://learn.microsoft.com/en-us/users/rsaw409/credentials/fb235456eb63e1a7"> Microsoft Azure Associate </a> </li>
   <li> <img align="center" style="pointer-events: none; cursor: default;" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="rsaw409" /> <a href="https://www.codechef.com/certificates/public/24f5562"> CCDSAP Foundation level </a> </li>
   <li> <img align="center" style="pointer-events: none; cursor: default;" src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE" alt="rsaw409" /> <a href="https://graduation.udacity.com/confirm/TTALJ7F"> C++ Nanodegree Program </a></li>
   <li> <img align="center" style="pointer-events: none; cursor: default;" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="rsaw409" /> <a href="https://www.coursera.org/account/accomplishments/specialization/DF8UCJXQN4DN"> Python Specialization Program </a></li>
